@@ -23,6 +23,21 @@ Here you can find:
 ### ✨ Next proyects 
 - Google Sites
 
+<details> 
+	<summary>"Contact, Suggestions, more info"</summary>
+	<br>
+	<ul>
+	<li>antonio.nicolau.b.23@gmail.com if you are interested in contact with me do not doubt email me , i'll reply as soon as posible</li>
+		<li>My hobbies are 💻 :
+			<ul>
+				<li>NFT</a></li>
+				<li>Music</li>
+				<li>Hardware | Artefacts </li>
+			</ul>
+		</li>
+		<li>Thanks, I hope you find this usefull. I try to make clear as posible</li>
+	</ul>
+</details>
 
 <!--
 **anb00/anb00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

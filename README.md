@@ -10,7 +10,7 @@ And greetings to github por host pages,repositories,for make community and much 
 
 ### ✨ Introduction to this workflow
 
-I try to achieve a balance and order with all the files and reach a clean code. I will try to update the repositoruies and full fill them with scripts.
+I try to achieve a balance and order with all the files and reach a clean code. I will try to update the repositories and full fill them with scripts.
 
 ### 🚀 Features 
 Here you can find:
